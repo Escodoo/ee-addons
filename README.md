@@ -21,7 +21,7 @@ Odoo Enterprise Addons
 
 ## Licenses
 
-This repository is licensed under [LGPL-3.0](LICENSE).
+This repository is licensed under LGPL-3.0
 
 However, each module can have a totally different license, as long as they adhere to Escodoo
 policy. Consult each module's `__manifest__.py` file, which contains a `license` key
