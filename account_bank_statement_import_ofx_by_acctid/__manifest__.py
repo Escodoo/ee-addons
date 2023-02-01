@@ -1,5 +1,5 @@
 # Copyright 2023 - TODAY, Escodoo
-# License LGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
+# License LGPL-3.0 or later (https://www.gnu.org/licenses/lgpl).
 
 {
     'name': 'Account Bank Statement Import Ofx By Acctid',
