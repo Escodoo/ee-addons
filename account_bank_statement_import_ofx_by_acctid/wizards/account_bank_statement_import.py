@@ -11,7 +11,7 @@ from odoo.addons.base.models.res_bank import sanitize_account_number
 
 class AccountBankStatementImport(models.TransientModel):
 
-    _inherit = 'account.bank.statement.import'
+    _inherit = "account.bank.statement.import"
 
     def _find_additional_data(self, currency_code, account_number):
 
